@@ -2,6 +2,8 @@
 
 Proton Drive built with React.
 
+**WARNING: This repo has been moved to mono repo at: https://github.com/ProtonMail/WebClients/tree/main/applications/drive**
+
 
 >**⚠ If you use Windows plz follow this document before anything else [how to prepare Windows](https://github.com/ProtonMail/proton-shared/wiki/setup-windows)**
 
